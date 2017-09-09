@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on My New Hugo Site</title>
+    <link>https://shigebunian.github.io/about/</link>
+    <description>Recent content in Abouts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate>
+    
+	<atom:link href="https://shigebunian.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>https://shigebunian.github.io/about/</link>
+      <pubDate>Sun, 25 Sep 2016 02:11:48 -0500</pubDate>
+      
+      <guid>https://shigebunian.github.io/about/</guid>
+      <description>I love my podcast You should love it too</description>
+    </item>
+    
+  </channel>
+</rss>
