@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>诗歌不念</title>
     <link>https://shigebunian.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 诗歌不念</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Sep 2017 15:28:23 +0800</lastBuildDate>
@@ -44,17 +44,16 @@
       <pubDate>Thu, 27 Apr 2017 15:19:36 -0500</pubDate>
       
       <guid>https://shigebunian.github.io/contact/</guid>
-      <description>Actionable insight food-truck earned media iterate hacker bootstrapping driven. Co-working hacker ideate intuitive innovate cortado minimum viable product big data viral convergence earned media engaging. Entrepreneur big data actionable insight grok iterate SpaceTeam experiential sticky note intuitive. Viral minimum viable product innovate user story prototype waterfall is so 2000 and late disrupt venture capital. Iterate cortado bootstrapping driven intuitive thinker-maker-doer entrepreneur.
-Engaging waterfall is so 2000 and late responsive agile iterate intuitive sticky note 360 campaign ideate affordances entrepreneur long shadow co-working.</description>
+      <description>No contact so far.</description>
     </item>
     
     <item>
-      <title>about</title>
+      <title></title>
       <link>https://shigebunian.github.io/about/</link>
       <pubDate>Sun, 25 Sep 2016 02:11:48 -0500</pubDate>
       
       <guid>https://shigebunian.github.io/about/</guid>
-      <description>I love my podcast You should love it too</description>
+      <description></description>
     </item>
     
   </channel>

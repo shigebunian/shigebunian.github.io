@@ -9,7 +9,7 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>诗歌不念</title>
     <atom:link href="https://shigebunian.github.io/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://shigebunian.github.io/</link>
     <lastBuildDate>Sat, 9 Sep 2017 15:28:23 &#43;0800</lastBuildDate>
@@ -18,23 +18,23 @@
     <language>en-us</language>
     <copyright></copyright>
     
-    <itunes:author>SGBN</itunes:author>
-    <itunes:summary>The HugoCast is the best podcast you&#39;ve ever seen. You will learn everything you ever needed to know about podcasting from the most inspiring experts to ever show up on the whole internet.</itunes:summary>
-    <description>The HugoCast is the best podcast you&#39;ve ever seen. You will learn everything you ever needed to know about podcasting from the most inspiring experts to ever show up on the whole internet.</description>
+    <itunes:author>Southpole</itunes:author>
+    <itunes:summary>this is summary part</itunes:summary>
+    <description>this is summary part</description>
     <itunes:owner>
-    <itunes:name>Matt Stratton</itunes:name>
-    <itunes:email>matt.stratton@gmail.com</itunes:email>
+    <itunes:name>Ms. Southpole</itunes:name>
+    <itunes:email>shigebunian@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://www.arresteddevops.com/img/ado-podcast-logo.png" />
-    <itunes:category text="Technology">
+    <itunes:image href="https://shigebunian.github.io/img/ado-podcast-logo.png" />
+    <itunes:category text="Society &amp; Culture">
       </itunes:category>
         <item>
           <title>Ep2</title>
           <itunes:author> </itunes:author>
           <itunes:summary>&lt;![CDATA[this is description of ep2]></itunes:summary>
           <description>&lt;![CDATA[this is description of ep2]></description>
-          <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode054.mp3" length="123456987" type="audio/mpeg" />
-          <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode054.mp3</guid>
+          <enclosure url="https://shigebunian.github.io/media/arrested-devops-podcast-episode054.mp3" length="123456987" type="audio/mpeg" />
+          <guid>https://shigebunian.github.io/media/arrested-devops-podcast-episode054.mp3</guid>
           <link>https://shigebunian.github.io/ep2/</link>
           <pubDate>Sat, 09 Sep 2017 15:28:23 +0800 </pubDate><itunes:duration>0:58:22</itunes:duration><itunes:explicit>no</itunes:explicit></item>
         <item>
@@ -42,8 +42,8 @@
           <itunes:author> </itunes:author>
           <itunes:summary>&lt;![CDATA[this is description of ep1]></itunes:summary>
           <description>&lt;![CDATA[this is description of ep1]></description>
-          <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode053.mp3" length="123456789" type="audio/mpeg" />
-          <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode053.mp3</guid>
+          <enclosure url="https://shigebunian.github.io/media/arrested-devops-podcast-episode053.mp3" length="123456789" type="audio/mpeg" />
+          <guid>https://shigebunian.github.io/media/arrested-devops-podcast-episode053.mp3</guid>
           <link>https://shigebunian.github.io/ep1/</link>
           <pubDate>Sat, 09 Sep 2017 15:07:10 +0800 </pubDate><itunes:duration>1:08:22</itunes:duration><itunes:explicit>no</itunes:explicit></item></channel>
 </rss>
